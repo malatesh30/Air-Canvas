@@ -3,16 +3,24 @@ A Python-based project that allows users to draw in the air using hand gestures 
 
 # Features
 Gesture-Based Drawing: Use your hand gestures to draw on the canvas.
+
 Color Selection: Select colors for drawing through an on-screen interface.
+
 Real-Time Drawing: Draw instantly by moving your hand in front of the webcam.
+
 Clear Canvas: Reset the canvas with the "Clear" button to start over.
+
 Adjustable Color Detection: Use trackbars to customize the sensitivity and color detection range.
+
 Simple UI: The app has a minimal and interactive interface for a seamless experience.
 
 # Technologies Used
 Python: The core programming language for the project.
+
 OpenCV: For real-time computer vision tasks such as color detection and gesture tracking.
+
 NumPy: For efficient handling of image matrices and arrays.
+
 Computer Vision Techniques: Contour detection, HSV color space filtering, and morphological operations.
 
 # How to Use
